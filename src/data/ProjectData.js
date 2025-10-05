@@ -41,7 +41,7 @@ export const ProjectList = [
     title: "KTea",
     description:
       "A fun app for anonymously sharing and reading campus teas (gossip).",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+    tech_stack: ["JavaScript", "Dart", "NodeJs", "MongoDB"],
     github_url: "https://github.com/TesRekt-05/KITEA",
     demo_url: "https://www.mediafire.com/file/5cd8aim1ai0azeo/app-release.apk/file",
   },
