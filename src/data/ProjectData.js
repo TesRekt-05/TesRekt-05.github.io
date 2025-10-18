@@ -30,9 +30,8 @@ export const ProjectList = [
   {
     img: "/mern.png",
     title: "E-commerce",
-    description:
-      "A full stack Ecommerce app .",
-    tech_stack: ["MongoDB", "Express","ReactJs", "NodeJs"],
+    description: "A full stack Ecommerce app .",
+    tech_stack: ["MongoDB", "Express", "ReactJs", "NodeJs"],
     github_url: "https://github.com/TesRekt-05/MERN-ECommerce",
     demo_url: "",
   },
@@ -43,7 +42,26 @@ export const ProjectList = [
       "A fun app for anonymously sharing and reading campus teas (gossip).",
     tech_stack: ["JavaScript", "Dart", "NodeJs", "MongoDB"],
     github_url: "https://github.com/TesRekt-05/KITEA",
-    demo_url: "https://www.mediafire.com/file/5cd8aim1ai0azeo/app-release.apk/file",
+    demo_url:
+      "https://www.mediafire.com/file/5cd8aim1ai0azeo/app-release.apk/file",
+  },
+  {
+    img: "/TeleCloud.png",
+    title: "CloudVault - Telegram Cloud Storage",
+    description:
+      "Full-stack unlimited cloud storage using Telegram Bot API, Flask, React TypeScript, and MongoDB.",
+    tech_stack: [
+      "Python",
+      "Flask",
+      "React",
+      "TypeScript",
+      "MongoDB",
+      "Telegram Bot API",
+      "REST API",
+    ],
+    github_url: "https://github.com/TesRekt-05/teleCloudBot",
+    demo_url:
+      "",
   },
 ];
 
